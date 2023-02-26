@@ -1,7 +1,7 @@
-//Setting username,useremail,coreeditor
+//Setting username,user email,coreeditor
 
 
-1.git config --global user.name "Ram"   // setting the uesrname.
+1.git config --global user.name "Ram"   // setting the username.
 
 
 2.git config --global user.email "sriramadusumilli98@gmail.com"  //setting the user email
